@@ -36,7 +36,7 @@ plant-disease-recognition/
 This project aims to assist farmers, researchers, and enthusiasts in identifying pest infected plants early, enabling timely intervention to protect crops and ensure healthier harvests. The system is built using advanced machine learning techniques and provides accurate predictions in seconds.
 
 ## 🙏 Acknowledgments
-- Dataset source: 
+- Dataset source: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 - Libraries used: [Streamlit](https://streamlit.io/), [TensorFlow](https://www.tensorflow.org/)
 
 ---
